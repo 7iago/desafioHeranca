@@ -1,4 +1,4 @@
-package oo.heranca.desafio;
+package oo.heranca.desafio.desafioHeranca;
 
 public class Carro {
 	int velocidadeAtual;
