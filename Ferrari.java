@@ -1,10 +1,9 @@
-package oo.heranca.desafio.desafioHeranca;
+package oo.heranca.desafio;
 
 public class Ferrari extends Carro{
 
 	public Ferrari(int velocidadeAtual) {
 		super(velocidadeAtual);
-		// TODO Auto-generated constructor stub
 	}
 	
 	@Override

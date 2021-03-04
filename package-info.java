@@ -1,1 +1,1 @@
-package oo.heranca.desafio.desafioHeranca;
+package oo.heranca.desafio;
